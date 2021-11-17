@@ -7,7 +7,7 @@ Computers aren't real
 
 Camryn Simons(crs163@pitt.edu)
 
-Jack Veith
+Jack Veith (jtv20@pitt.edu)
 
 Tim Mooney
 
