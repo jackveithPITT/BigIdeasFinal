@@ -1,9 +1,9 @@
 # Big Ideas Final
 
-## Group name: 
+## Team Name: 
 The Pumping Lemmas
 
-## Group members:
+## Team Members and Email Addresses
 
 Camryn Simons(crs163@pitt.edu)
 
@@ -13,7 +13,7 @@ Tim Mooney (tjm182@pitt.edu)
 
 ## Question: What is the best neighborhood in Pittsburgh?
 
-The hard part of this question is, what defines what is "best"? Best is subjective, and therefore the "best" neighborhood can be determined by a variety of things. Our group has decided that being family-friendly is what we will use to define the "best" neighborhood in Pittsburgh.
+The question that our team sought out to answer is, what is the best neighborhood in Pittsburgh? The difficult part of this question, as one might presume, is, what defines what is "best"? Determing the "best" of anything is subjective by nature, allowing for a variety of different metrics and quanitifiers. Therefore, when determining what neighborhood in Pittsburgh is the best, our team has decided that we believe that being the most family-friendly determines which neighborhood is the best.
 
 ## Metrics
 
