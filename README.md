@@ -17,8 +17,8 @@ The question that our team sought out to answer is, what is the best neighborhoo
 
 ## Data Descriptions and Links
 
-One metric that we will be looking at to define the "best", most family-friendly, neighborhood is the art installations in Pittsburgh by neighborhood.
-Link to the dataset used:
+One metric that we will be looking at to define the "best", most family-friendly, neighborhood is the distribution of crime in Pittsburgh by neighborhood.
+Link to the dataset used:https://data.wprdc.org/dataset/neighborhoods-with-snap-data
 
 
 Another metric that we will be looking at to define the "best", most family-friendly, neighborhood is the playgrounds in Pittsburgh by neighborhood.
