@@ -32,10 +32,10 @@ Link to the dataset used: https://data.wprdc.org/dataset/city-of-pittsburgh-cour
 
 Our team sought out to determine the best neighborhood in Pittsburgh. To measure what makes the neighborhood the "best", our team looked at which neighborhoods are the most family-friendly. 
 
-One metric that we looked at was the courts and rinks by neighborhood in Pittsburgh. Sports are often an important part of childhood and teenage years. Providing a safe place for children and teenagers to practice and play sports is an important aspect of being family-friend. [Put actual data in here]. Overall, this data shows that [neighborhood] has the most amount of courts and rinks, and is therefore the most family-friendly by these metrics.
+One metric that we looked at was the courts and rinks by neighborhood in Pittsburgh. Sports are often an important part of childhood and teenage years. Providing a safe place for children and teenagers to practice and play sports is an important aspect of being family-friend. Overall, this data shows that Squirrel Hill South has the most amount of courts and rinks, and the most diverse selection of the type of courts and rinks, and is therefore the most family-friendly by these metrics.
 
-Another metric that we looked at was _________
+Another metric that we looked at was playrgounds by neighborhood in Pittsburgh. Similar to courts and rinks, playgrounds provide a safe place for children to hang out and play. After determining the population per playground in each neighborhood, Squirrel Hill South was determined to have the best population per playground because it didn't have too many people per playground and it didn't have too few people per playground. Therefore, this neighborhood is the most family-friendly by these metrics.
 
-The final metric that we looked at was _______.
+The final metric that we looked at was crime. Crime is an important factor when determining how family friendly a neighborhood is, as families want to live somewhere where they feel comfortable and safe. After totaling the crimes per neighborhood, and dividing those numbers by the population, we created a ranking of the safest neighborhoods in Pittsburgh. Squirrel Hill South was ranked in the top-12 in this list, making it on the more safer side. 
 
-Combining all of the data, metrics, and results that we determined separately, our team determined that [neighborhood] is the best neighborhood in Pittsburgh.
+Combining all of the data, metrics, and results that we determined separately, our team determined that Squirrel Hill South is the best neighborhood in Pittsburgh.
